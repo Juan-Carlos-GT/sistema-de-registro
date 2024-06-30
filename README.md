@@ -6,4 +6,4 @@ Para ejecutar el sistema, debes poner:
 
 ```npm install next```
 
-sistema d eregistro 2
+sistema de registro 2
